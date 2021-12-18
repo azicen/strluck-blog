@@ -1,0 +1,5 @@
+target
+cmake-build-debug
+
+main
+CmakeList.txt
